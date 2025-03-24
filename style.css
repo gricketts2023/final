@@ -248,6 +248,16 @@ text-transform: uppercase;
     .footer-logo img {
         width: 10%;
     }
+
+    .news-container{
+        justify-content: center;
+}
+      .award-container{
+        justify-content: center;
+}
+     .project-container{
+        justify-content: center;
+}
 }
 
 /*ipad*/
